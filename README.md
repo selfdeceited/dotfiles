@@ -15,10 +15,14 @@
  - docker
  - vs code w plugins recommended (commit)
  - rider, datagrip (commit settings)
- - searching for the ideal git UI
+ - searching for the ideal git UI (gitkraken)
 
 ### on trial
- - yabai https://github.com/koekeishiya/yabai/wiki#quickstart-guide
+ - fig https://fig.io/
+ - marta https://marta.sh/
  - lazygit
  - raycast
- - ubersicht
+
+
+## on hold
+ - yabai https://github.com/koekeishiya/yabai/wiki#quickstart-guide
