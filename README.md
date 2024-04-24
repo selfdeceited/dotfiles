@@ -4,7 +4,7 @@
 - oh-my-zsh
   - plugins ` plugins=(git zsh-z docker zsh-syntax-highlighting zsh-autosuggestions colored-man-pages colorize dotnet kubectl)`
   - pure prompt https://github.com/sindresorhus/pure
-  
+
 - iTerm 2 (w profile)
 - Fira Code w ligatures
 
@@ -15,14 +15,14 @@
  - docker
  - vs code w plugins recommended (commit)
  - rider, datagrip (commit settings)
- - searching for the ideal git UI (gitkraken)
+ - fig https://fig.io/
+ - continue LLM aggregator
 
 ### on trial
- - fig https://fig.io/
- - marta https://marta.sh/
+ - zsh-navigation-tools
  - lazygit
- - raycast
-
 
 ## on hold
+ - marta https://marta.sh/
+ - raycast
  - yabai https://github.com/koekeishiya/yabai/wiki#quickstart-guide
