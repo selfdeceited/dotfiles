@@ -12,17 +12,13 @@
  - brew
  - Node:latest, nvm, yarn 3+
  - dotnet cli
- - docker
+ - docker desktop
  - vs code w plugins recommended (commit)
  - rider, datagrip (commit settings)
  - fig https://fig.io/
- - continue LLM aggregator
 
 ### on trial
  - zsh-navigation-tools
  - lazygit
-
-## on hold
- - marta https://marta.sh/
- - raycast
- - yabai https://github.com/koekeishiya/yabai/wiki#quickstart-guide
+ - orbstack
+ - continue LLM aggregator
