@@ -6,7 +6,7 @@
   - pure prompt https://github.com/sindresorhus/pure
 
 - iTerm 2 (w profile)
-- Fira Code w ligatures
+- [Fira Code w ligatures](https://github.com/tonsky/FiraCode)
 
 ### dev tools
  - brew
@@ -19,6 +19,7 @@
 
 ### on trial
  - zsh-navigation-tools
+ - loom https://www.loom.com/
  - lazygit
  - orbstack
  - continue LLM aggregator
