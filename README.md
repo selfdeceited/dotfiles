@@ -12,14 +12,13 @@
  - brew
  - Node:latest, nvm, yarn 3+
  - dotnet cli
- - docker desktop
+ - orbstack
  - vs code w plugins recommended (commit)
  - rider, datagrip (commit settings)
- - fig https://fig.io/
 
 ### on trial
+ - warp
  - zsh-navigation-tools
  - loom https://www.loom.com/
  - lazygit
- - orbstack
  - continue LLM aggregator
