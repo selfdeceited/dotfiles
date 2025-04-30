@@ -15,6 +15,7 @@
  - orbstack
  - vs code w plugins recommended (commit)
  - rider, datagrip (commit settings)
+ - https://github.com/p0deje/Maccy
 
 ### on trial
  - warp
