@@ -9,17 +9,19 @@
 - [Fira Code w ligatures](https://github.com/tonsky/FiraCode)
 
 ### dev tools
+ - claude code
  - brew
  - Node:latest, nvm, yarn 3+
  - dotnet cli
  - orbstack
- - vs code w plugins recommended (commit)
+ - vs code
  - rider, datagrip (commit settings)
- - https://github.com/p0deje/Maccy
+ - [Maccy](https://github.com/p0deje/Maccy)
+
+### other
+ - perplexity pro
+ - obsidian + obsidian sync
 
 ### on trial
- 
- - zsh-navigation-tools
+ - zed
  - loom https://www.loom.com/
- - lazygit
- - continue LLM aggregator
