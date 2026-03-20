@@ -5,7 +5,7 @@
   - plugins ` plugins=(git zsh-z docker zsh-syntax-highlighting zsh-autosuggestions colored-man-pages colorize dotnet kubectl)`
   - pure prompt https://github.com/sindresorhus/pure
 
-- iTerm 2 (w profile) -> warp
+- iTerm 2 (w profile)
 - [Fira Code w ligatures](https://github.com/tonsky/FiraCode)
 
 ### dev tools
@@ -15,12 +15,13 @@
  - dotnet cli
  - orbstack
  - vs code
- - rider, datagrip (commit settings)
  - [Maccy](https://github.com/p0deje/Maccy)
 
 ### other
  - perplexity pro
  - obsidian + obsidian sync
+ - pearcleaner
+ - rapidRAW
 
 ### on trial
  - zed
