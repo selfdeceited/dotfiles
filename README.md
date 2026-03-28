@@ -26,3 +26,16 @@
 ### on trial
  - zed
  - loom https://www.loom.com/
+ - font: Iosevka Aile
+
+
+### Obsidian setup
+- style: PLN
+- plugins:
+   - dataview
+   - excalidraw
+   - highlightr
+   - iconize
+   - kanban
+   - smart composer (Claude)
+   - style settings
